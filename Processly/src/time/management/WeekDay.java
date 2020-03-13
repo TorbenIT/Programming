@@ -1,0 +1,11 @@
+package time.management;
+
+public enum WeekDay {
+
+	Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+	
+	
+	// 3 important methods: ordinal() --> returns position, values() ---> returns array,
+							// toString() --> returns the String value
+
+}

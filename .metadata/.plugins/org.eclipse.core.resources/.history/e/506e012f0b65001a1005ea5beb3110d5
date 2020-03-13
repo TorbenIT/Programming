@@ -1,0 +1,10 @@
+package business.optimizer;
+
+
+public class Calendar {
+
+	public static void main(String[] args) {
+	
+		WeekDay day = WeekDay;
+	}
+}

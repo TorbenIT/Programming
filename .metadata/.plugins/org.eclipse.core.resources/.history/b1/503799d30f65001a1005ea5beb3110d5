@@ -1,0 +1,21 @@
+package time.management;
+
+import javax.tools.utilities.InputReader;
+
+public class Calendar {
+
+	public static void main(String[] args) {
+	
+		WeekDay day = WeekDay.Friday;
+		
+		System.out.println(" In 5 days is " + WeekDay.values()[(day.ordinal()+5)%7]);
+	
+	
+		System.out.println("Give us the day, you would like to see the TODOs: ");
+		String in = InputReader.readString()
+	
+	
+	
+	
+	}
+}

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\0Processly\.metadata\.plugins\org.eclipse.jdt.core
+3996102163.index
+2976208038.index
